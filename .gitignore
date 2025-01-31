@@ -1,0 +1,31 @@
+# IDE и редакторы
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Операционные системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Временные файлы
+*.log
+*.tmp
+*.temp
+
+# Зависимости и сборки
+node_modules/
+dist/
+build/
+
+# Локальные конфигурации
+.env
+.env.local
+*.local 
